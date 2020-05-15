@@ -4,4 +4,7 @@ Flood Kahoot games with bots and scare your teachers. This software can send ~20
 download here:
 https://github.com/gnelis-cyber/kahoot-flooder/raw/master/flooder-win.zip
 
-Folow the instructions in the program to use it ;)
+<h2>Quick Start Guide</h2>
+
+ Uzip the file, open the program (`flooder-win.exe`)
+ , Folow the instructions in the program to use it ;)
